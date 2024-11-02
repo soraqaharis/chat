@@ -15,29 +15,24 @@ ChatApp establishes a *Socket.io* connection between clients and the server, all
 ### Getting Started
 
 1. *Clone the Repository*:
-    bash
     git clone https://github.com/yourusername/chatapp.git
     
 
 2. *Navigate to Backend and Install Dependencies*:
-    bash
     cd chatapp/backend
     npm install
     
 
 3. *Run the Server*:
-    bash
     node server.js
     
 
 4. *Navigate to Frontend and Install Dependencies*:
-    bash
     cd ../frontend
     npm install
     
 
 5. *Run the Frontend*:
-    bash
     npm start
     
 
